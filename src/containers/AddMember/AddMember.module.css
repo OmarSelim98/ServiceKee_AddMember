@@ -1,0 +1,8 @@
+.container{
+    max-width:  750px;
+    max-height: 100vh;
+}
+.switchTitle{
+    padding:3px 5px;
+    font-weight: bold;
+}
